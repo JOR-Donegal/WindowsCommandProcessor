@@ -8,8 +8,8 @@ I have no idea what environment you are going to be doing these exercises in.
 
 If you're in a university laboratory, you may have a cloud share assigned to
 
-C:\Users\\_username_\OneDrive - Atlantic TU\IaC\Week1
+**C:\Users\\**_**username**_**\OneDrive - Atlantic TU\IaC\Week1**
 
-On a home computer, your home directory will be c:\users\\_username_\IaC\Wee&#x6B;_&#x58;_
+On a home computer, your home directory will be **c:\users\\**_**username**_**\IaC\Week**_**X**_
 
 Throughout these notes, adapt my instructions to wherever your home directory actually is.
