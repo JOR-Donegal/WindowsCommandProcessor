@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Background](README.md)
-* [Deliverables](deliverables.md)
-* [Working Environment](working-environment.md)
+  * [Style](readme/style.md)
+  * [Deliverables](readme/deliverables.md)
+  * [Working Environment](readme/working-environment.md)
 * [The Command Line Interpreter (CLI)](the-command-line-interpreter-cli.md)
 * [Organizing Information](organizing-information/README.md)
   * [Directories and File Structures](organizing-information/directories-and-file-structures.md)
