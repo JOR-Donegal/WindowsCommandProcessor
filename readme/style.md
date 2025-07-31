@@ -2,20 +2,19 @@
 
 Please practice your command line skills on a test system, not on a production system. Talk to the administrator if you need access to a test system to practice.
 
-In this document, there are several key terms. These will be italicized. You may need to look up these terms to get a full understanding of them. Commands are generally shown in bold.\
-In these notes, I will assume your Linux home directory is
+In this document, there are several key terms. These will be _italicized_. You may need to look up these terms to get a full understanding of them. In these notes, I will assume your Linux home directory is
 
-/home/username
+**/home/username**
 
 If you have a different path, adapt!
 
-Generally, these notes show commands in; bold letters or in a separate&#x20;
+Generally, these notes show commands in **bold** letters or in a separate&#x20;
 
 ```
 code block for showing commands
 ```
 
-Be careful, it can be hard to see where the spaces are. If you get an error when you type a command, the chances are you have missed a space somewhere. Linux also uses the “.” symbol in places, for this reason, I leave out full stops on any line which ends with a Linux command.
+Be careful, it can be hard to see where the spaces are. If you get an error when you type a command, the chances are you have missed a space somewhere. Linux also uses the “**.**” symbol in places, for this reason, I leave out full stops on any line which ends with a Linux command.
 
 In DOS/Windows, the characters are not CaSe SeNsItIvE! If you create a file called **Computing.txt**, this is exactly the same file as one called **computing.txt**
 
